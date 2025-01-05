@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react JS , tailwind ,bootstrap and node JS**
 
-- 📝 my website [https://nimish1402.github.io/Gym-Website/](https://nimish1402.github.io/Gym-Website/)
+- 📝 my website [https://incandescent-figolla-143082.netlify.app/]
 
 - 📫 How to reach me **nimish894selot@gmail.com**
 
