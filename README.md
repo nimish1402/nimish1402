@@ -23,14 +23,19 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimish1402&show_icons=true&locale=en&layout=compact" alt="nimish1402" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimish1402&show_icons=true&locale=en" alt="nimish1402" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimish1402&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="nimish1402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimish1402&" alt="nimish1402" /></p>
 
 <br/>
 
-<h3 align="left">📊 My GitHub Contribution Graph:</h3>
+<h3 align="left">📊 All-Time GitHub Contribution Graph:</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimish1402&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Nimish%27s%20All-Time%20GitHub%20Contributions" alt="Nimish's GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimish1402&theme=github_dark" alt="Nimish's all-time contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nimish1402&theme=github_dark" alt="Nimish's stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nimish1402&theme=github_dark&utcOffset=5.5" alt="Nimish's productive time" />
 </p>
